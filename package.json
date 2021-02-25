@@ -92,7 +92,7 @@
         "react-transition-group": "^4.4.1",
         "react-use": "^15.3.8",
         "react-visibility-sensor": "^5.1.1",
-        "reactour": "^1.18.0",
+        "reactour": "^1.18.1",
         "reactstrap": "8.7.1",
         "reactstrap-confirm": "^1.2.0",
         "redux": "^4.0.5",
